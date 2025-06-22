@@ -7,7 +7,7 @@ I am a Data Sciences enthusiast with a background in Biomedical Sciences. The ap
 ## Projects
 
 ### 1. Uncovering the world's oldest businesses
- 
+
 
 **Tools:** SQL, Power BI
 
