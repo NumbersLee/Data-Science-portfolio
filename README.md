@@ -8,7 +8,6 @@ I am a Data Sciences enthusiast with a background in Biomedical Sciences. The ap
 
 ### 1. Uncovering the world's oldest businesses
 
-
 **Tools:** SQL, Power BI
 
 The oldest businesses in the world were established between 1000s and 1900s. Using SQL, I uncovered the oldest business in the world and the most common industry/business category. Additionally, I discovered an exponential increase in businesses being established between the 1700s and 1900s,coinciding with the Industrial Revolution.
