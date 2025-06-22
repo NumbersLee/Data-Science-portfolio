@@ -8,7 +8,7 @@ I am a Data Sciences enthusiast with a background in Biomedical Sciences. The ap
 
 ### 1. Uncovering the world's oldest businesses
 
-![alt text](Data-Science-portfolio/pexels-pixabay-247763.jpg)  
+![alt text](Data-Science-portfolio/Project 1/pexels-pixabay-247763.jpg)  
 
 Tools: SQL, Power BI
 
